@@ -9,7 +9,7 @@
   </p>
 </p>
 
-
+![Screen Shot](Dashboard.jpg)
 
 ## About The Project
 
